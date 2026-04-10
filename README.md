@@ -1,29 +1,30 @@
 # 👩🏻‍💻 Andréia Fernandes
 
-**`Backend Developer | Java & Spring Boot`**
+**`Software Developer | Java | Spring Boot | Vue.js`**
 
-I am a Backend Developer with a solid track record in the Java ecosystem. Since 2022, I have been building and maintaining robust systems, with a strong focus on **Spring Boot** and **PL/SQL**. 
+I am a Software Developer with over 3,5 years of experience. My expertise spans across development using **Java**, **Spring Boot**, **PostgreSQL**, **Firebird**, and **Vue.js**, with a strong focus on database optimization and intuitive UI/UX interfaces.
 
-I am a high-performance professional who thrives under pressure. My workflow involves deep mental planning and decisive execution—ensuring high-quality delivery even in fast-paced environments. I have a versatile technical background, including experience with **Pascal/Delphi** and **Vue.js**, which allows me to adapt quickly to different architectures.
-
-I am currently seeking international opportunities (Europe/UAE) to apply my technical expertise to global projects and continue my growth in high-scale environments.
+I currently contribute to the development of high-performance financial and commercial systems for both desktop and web applications. I work with Agile methodologies, **Git**, and **Jira**, always committed to code quality, system reliability, and delivering effective solutions tailored to client needs
 
 ---
 
 ### 🤖 Technologies & Tools
+Core Stack | Software Development
 
-**Primary Stack (Backend & Databases)**
 <p align="left">
-  <img title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right: 10px;" />
-  <img title="Spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right: 10px;" />
-  <img title="PL/SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right: 10px;" />
-  <img title="Firebird" width="40" src="https://www.vectorlogo.zone/logos/firebirdsql/firebirdsql-icon.svg" style="padding-right: 10px;" />
+<img title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right: 10px;" />
+<img title="Spring Boot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right: 10px;" />
+<img title="Vue.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right: 10px;" />
+<img title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right: 10px;" />
+<img title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right: 10px;" />
 </p>
 
-**Secondary & Legacy Support**
-- **Languages:** Pascal, Delphi
-- **Frontend:** Vue.js, JavaScript, Bootstrap, HTML5, CSS3
-- **Tools:** Git, Tortoise, Maven
+Technical Expertise
+
+Backend: Java (Spring Boot), Pascal (Delphi).
+Frontend: Vue.js, JavaScript, Bootstrap, HTML5, CSS3.
+Databases: PostgreSQL, Firebird.
+Tools & Methodologies: Git, Maven, Jira, Agile (Scrum/Kanban), Tortoise SVN.
 
 ---
 
