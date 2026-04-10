@@ -21,8 +21,11 @@ Core Stack | Software Development
 Technical Expertise
 
 Backend: Java (Spring Boot), Pascal (Delphi).
+
 Frontend: Vue.js, JavaScript, Bootstrap, HTML5, CSS3.
+
 Databases: PostgreSQL, Firebird.
+
 Tools & Methodologies: Git, Maven, Jira, Agile (Scrum/Kanban), Tortoise SVN.
 
 ---
@@ -38,8 +41,8 @@ When I'm not architecting backends, I'm likely:
 ### 📊 Statistics
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[SEU_USER_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USER_GITHUB]&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=andreia-fernandes&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreia-fernandes&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
 ---
